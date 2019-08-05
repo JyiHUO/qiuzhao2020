@@ -10,3 +10,8 @@
 * [84](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 * [85](https://leetcode.com/problems/maximal-rectangle/)
 
+**20190806**
+
+* [221](https://leetcode.com/problems/maximal-square/)
+* [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
