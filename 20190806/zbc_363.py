@@ -5,7 +5,7 @@
 # 在helper函数中数组搜索花费时间不能降到nlogn级别 \
 
 class Solution:
-    def maxSumSubmatrix(self, matrix):
+    def maxSumSubmatrix(self, matrix, k):
         
         if not matrix:
             return 0
