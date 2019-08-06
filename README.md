@@ -14,4 +14,3 @@
 
 * [221](https://leetcode.com/problems/maximal-square/)
 * [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
-
