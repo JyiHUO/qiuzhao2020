@@ -19,3 +19,8 @@
 
 * [207](https://leetcode.com/problems/course-schedule/)
 * [862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)
+
+**20190808**
+
+- [217](https://leetcode.com/problems/house-robber-ii/)
+- [1000](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
