@@ -14,3 +14,8 @@
 
 * [221](https://leetcode.com/problems/maximal-square/)
 * [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
+**20190807**
+
+* [207](https://leetcode.com/problems/course-schedule/)
+* [862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)
