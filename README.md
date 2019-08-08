@@ -22,5 +22,10 @@
 
 **20190808**
 
-- [217](https://leetcode.com/problems/house-robber-ii/)
+- [213](https://leetcode.com/problems/house-robber-ii/)
 - [1000](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
+
+**20190809**
+
+- [96](https://leetcode.com/problems/unique-binary-search-trees/)
+- [56](https://leetcode.com/problems/merge-intervals/)

@@ -20,7 +20,7 @@ class solution:
         
         cnt = 0
         while queue:
-            cur = queue.pop()
+            cur = queue.pop() 
             cnt += 1
             for course in adj[cur]:
                 in_degrees[course] -= 1
