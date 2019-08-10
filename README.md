@@ -33,3 +33,8 @@
 **20190810**
 
 周六不布置新题目，消化上周没做完的题目，练习面试选择题，复习简历，投简历，泡妞玩耍。
+
+**20190811**
+
+- [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+- [785](https://leetcode.com/problems/is-graph-bipartite/)
