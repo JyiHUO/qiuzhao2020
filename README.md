@@ -38,3 +38,8 @@
 
 - [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - [785](https://leetcode.com/problems/is-graph-bipartite/)
+
+**20190812**
+
+- [269](https://leetcode.com/problems/alien-dictionary/)
+- [133](https://leetcode.com/problems/clone-graph/)
