@@ -43,3 +43,9 @@
 
 - [269](https://leetcode.com/problems/alien-dictionary/)
 - [133](https://leetcode.com/problems/clone-graph/)
+
+**20190813**
+
+* [312](https://leetcode.com/problems/burst-balloons/)
+* [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
