@@ -46,6 +46,11 @@
 
 **20190813**
 
+- 至少两道头条算法题
+- 看360试题（选做）
+
+**360笔试过后完成**
+
 * [312](https://leetcode.com/problems/burst-balloons/)
 * [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 
