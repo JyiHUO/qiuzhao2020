@@ -55,3 +55,7 @@
 * [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 * 360笔试预习
 
+**20190815**
+
+* [300](https://leetcode.com/problems/longest-increasing-subsequence/)
+* 
