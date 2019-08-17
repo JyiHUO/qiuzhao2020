@@ -60,3 +60,7 @@
 * [300](https://leetcode.com/problems/longest-increasing-subsequence/)
 * [229](https://leetcode.com/problems/majority-element-ii/)
 
+**20190817**
+
+* 2018年字节跳动秋招算法工程师第一批(https://www.nowcoder.com/contestRoom?mutiTagIds=665)
+
