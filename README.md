@@ -64,3 +64,7 @@
 
 * 2018年字节跳动秋招算法工程师第一批(https://www.nowcoder.com/contestRoom?mutiTagIds=665)
 
+**20190818**
+
+* [128](https://leetcode.com/problems/longest-consecutive-sequence/)
+* [116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
