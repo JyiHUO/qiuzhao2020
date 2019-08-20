@@ -47,7 +47,7 @@
 **20190813**
 
 - 至少两道头条算法题
-- 看360试题（选做）
+- 看360试题（选做)
 
 **20190814**
 
@@ -68,3 +68,16 @@
 
 * [128](https://leetcode.com/problems/longest-consecutive-sequence/)
 * [116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+**20190820**
+
+腾讯一面知识点：
+
+* 链表环
+* 数组重复元素
+* 百万数据排序
+* 根号二
+* sin x
+* [小于n的素数个数](https://leetcode.com/problems/count-primes/)
+* [数组中最大连续序列和](https://leetcode.com/problems/maximum-subarray/)
+
