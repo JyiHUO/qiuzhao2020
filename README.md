@@ -91,3 +91,18 @@
 
 * [超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 
+**20190824**
+
+* 京东笔试
+  * tf-idf概念
+  * 数据库中的索引有什么用
+  * python中__new__与__init__的区别
+  * cpp中的sizeof
+  * 过滤式特征选择
+  * 哈夫曼树
+  * 核化降维vs流式学习
+  * bayes可以解决样本不均衡的问题
+  * 红黑树的概念
+  * python如何存储变量
+  * 最大连通图
+  * sin 2的泰勒展开
