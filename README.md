@@ -96,7 +96,7 @@
 * 京东笔试
   * tf-idf概念
   * 数据库中的索引有什么用
-  * python中__new__与__init__的区别
+  * python中__new__与__init__在类中的区别
   * cpp中的sizeof
   * 过滤式特征选择
   * 哈夫曼树
