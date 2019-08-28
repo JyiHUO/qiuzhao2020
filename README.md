@@ -94,7 +94,10 @@
 **20190824**
 
 * 京东笔试
-  * tf-idf概念
+  * [tf-idf概念](https://zhuanlan.zhihu.com/p/31197209)
+    * Term_Frequency = 词在文章出现次数 / 文章总词数
+    * Inverse_Document_Frequency = log( 文章总数 / 出现该词的文章数 + 1 )
+    * TF-IDF = Term_Frequency * Inverse_Document_Frequency
   * 数据库中的索引有什么用
   * python中__new__与__init__在类中的区别
   * cpp中的sizeof
@@ -106,3 +109,13 @@
   * python如何存储变量
   * 最大连通图
   * sin 2的泰勒展开
+
+**20180825**
+
+* 头条笔试
+  * 并查集
+
+**20190826**
+
+* [最少的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
+* [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
