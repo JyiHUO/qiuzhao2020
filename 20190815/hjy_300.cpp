@@ -10,27 +10,24 @@ using namespace std;
 class Solution {
 public:
   int lengthOfLIS(vector<int>& nums) {
-    if(nums.empty())return 0;
-    vector<int> tail;
-    int size = 0;
-    for(int x: nums){
-      int left = 0;
-      int right = tail.size();
-      while (left<right){
-        int m = (left + right) / 2;
-        if (x > tail[m])
-          left = m+1;
-        else
-          right = m;
-      }
-      if(right==tail.size()){
-        size++;
-        tail.push_back(x);
-      } else{
-        tail[right] = x;
-      }
+    if(nums.size()==0)return 0;
+    int max_s = 1;
+    vector<int>tail(nums.size(), 0);
+    tail[0] = nums[0];
+    for(int i=1;i<nums.size();i++){
+      int l = -1;
+      int r = max_s;
+      while(r-l>1){
+        int m = (l+r)/2;
+        if(tail[m]==nums[i])r=m;
+        else if(tail[m]<nums[i])l=m;
+        else r=m;
+      } // the true number always in (l, r). It is the best way to define binary search problem
+      if(l == -1)tail[0] = nums[i];
+      else if(r == max_s){tail[max_s]=nums[i];max_s++;}
+      else tail[r] = nums[i];
     }
-    return size;
+    return max_s;
   }
 };
 
