@@ -119,3 +119,15 @@
 
 * [最少的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 * [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+**20190830**
+
+括号专题
+
+* [20](https://leetcode.com/problems/valid-parentheses/submissions/)
+* [22](https://leetcode.com/problems/generate-parentheses/)
+
+杂
+
+* [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+* 
