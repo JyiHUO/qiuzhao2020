@@ -81,6 +81,16 @@
 * [小于n的素数个数](https://leetcode.com/problems/count-primes/)
 * [数组中最大连续序列和](https://leetcode.com/problems/maximum-subarray/)
 
+腾讯二面凉：
+
+这是我遇到最坑爹的面试官，迟到45分钟。问了一下，是后台的面试官
+
+* 如何找进程中用到文件的文件名
+* 如果是分级的数据形式，如何设置你的表结构
+* python装饰器的作用
+* http与https的区别
+* 后面有点忘了。。。
+
 **20190821**
 
 剑指offer的题目
@@ -120,14 +130,38 @@
 * [最少的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 * [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
-**20190830**
+美团一面：
+
+* 算法题：topk
+* DeepFM是什么，为什么交叉有用，为什么不只用DNN
+* xdeepFM是什么
+* xgboost vs lightgbm
+* lstm结构，梯度爆炸怎么造成，怎么避免梯度消失
+* L1 与 l2，既然l2的效果好，为什么用l1
+* 忘了。。。
+
+**20190830&20190931**
 
 括号专题
 
 * [20](https://leetcode.com/problems/valid-parentheses/submissions/)
 * [22](https://leetcode.com/problems/generate-parentheses/)
+* [856](https://leetcode.com/problems/score-of-parentheses/)
 
 杂
 
 * [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
-* 
+* [一篇鸡血的帖子](https://www.nowcoder.com/discuss/104930)
+* [lstm如何避免梯度不可以避免梯度爆炸](https://www.zhihu.com/question/34878706)
+
+**20190901**
+
+头条一面凉
+
+* [把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tqId=11185&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
+* adam vs sgd
+* random forest vs gbdt
+* lr目标函数
+* attention 用到fm中
+* auc计算
+* 忘了
