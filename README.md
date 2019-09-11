@@ -179,4 +179,18 @@
 **20190903**
 
 - [354](https://leetcode.com/problems/russian-doll-envelopes/)
-- 
+
+**20190904 - 20190911**
+
+* 剑指offer基本刷完
+* 先序遍历-中序遍历-后序遍历专题
+  * [判断后序是否合法](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tqId=11176&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
+* [889](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+
+**20190912**
+
+* 背包专题
+  * 01背包
+  * 二维01背包
+    * [vivo笔试题](https://www.nowcoder.com/discuss/255771)
+    * [474](https://leetcode.com/problems/ones-and-zeroes/)
