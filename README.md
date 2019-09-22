@@ -195,8 +195,15 @@
     * [vivo笔试题](https://www.nowcoder.com/discuss/255771)
     * [474](https://leetcode.com/problems/ones-and-zeroes/)
 
-*20190918**
+**20190918**
 
 * 动态获取输入流中位数
 
 * [一维消消乐](https://leetcode.com/problems/remove-boxes/submissions/)
+
+**20190922**
+
+* [Minimum_Time_to_Build_Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/)
+  * 解法：哈夫曼树
+  * dp
+
