@@ -190,16 +190,17 @@
 **20190912**
 
 * 背包专题
-  * 01背包
   * 二维01背包
     * [vivo笔试题](https://www.nowcoder.com/discuss/255771)
     * [474](https://leetcode.com/problems/ones-and-zeroes/)
+  * 区间dp
+    * [一维消消乐](https://leetcode.com/problems/remove-boxes/submissions/)
+    * leetcode 87
 
 **20190918**
 
 * 动态获取输入流中位数
 
-* [一维消消乐](https://leetcode.com/problems/remove-boxes/submissions/)
 
 **20190922**
 
@@ -207,3 +208,9 @@
   * 解法：哈夫曼树
   * dp
 
+**20190929**
+
+* 状态机（股票模型）
+  * 123
+  * 188
+  * 309
